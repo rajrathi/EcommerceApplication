@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139591267592",
+    "project_id": "shyam-eshopee",
+    "storage_bucket": "shyam-eshopee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139591267592:android:54e1b82a5ff8550361a8bd",
+        "android_client_info": {
+          "package_name": "com.shyam.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139591267592-apj2jivkcdn06fnpi3kfo08sdm2q4tj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmlMtIcMv5qkdX8xJCbiJMj2NEnh7eWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139591267592-apj2jivkcdn06fnpi3kfo08sdm2q4tj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
